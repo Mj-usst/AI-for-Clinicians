@@ -1,0 +1,2 @@
+﻿文献ID,题名,年份,DOI,研究场景,对象与样本单位,干预与对照,结局指标,主要结果,来源位置,局限,核查状态
+P1,Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial,2024,10.1001/jamanetworkopen.2024.40969,书面病例评测；非真实门诊,50 名医生；6 个书面病例题；不是 50 名患者,医生使用 GPT-4 和常规资源 vs 仅常规资源,诊断推理评分（百分制），不是患者结局,组中位评分 76% vs 74%；调整差 2 个百分点（95% CI -4 至 8）；P=.60。未证明协作优于对照，也不能据此认定等效。,Results / Primary Outcome: Diagnostic Performance；Table 2,小样本与书面任务；不外推实际患者获益,课程编写的填写示范；使用者仍须自行核原文
